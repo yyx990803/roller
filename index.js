@@ -47,7 +47,7 @@ function Roller (options) {
 
     // setup events
     var self = this
-    Hammer(this.el)
+    Hammer(this.el, options.hammer)
         .on('touch', function () {
             self.momentum = 0
         })

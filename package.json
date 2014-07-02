@@ -1,6 +1,6 @@
 {
   "name": "roller",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "One-dimensional touch scroller with momentum and elastic pagination",
   "main": "index.js",
   "repository": {
